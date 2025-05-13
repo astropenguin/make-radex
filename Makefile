@@ -8,7 +8,7 @@ RADEX_MAXITER := 9999
 RADEX_CMD := radex
 RADEX_INC := radex.inc
 RADEX_SRC := radex_public
-RADEX_URL := https://personal.sron.nl/~vdtak/radex
+RADEX_URL := https://sronpersonalpages.nl/~vdtak/radex
 
 # subcommands
 build: $(RADEX_CMD)-uni $(RADEX_CMD)-lvg $(RADEX_CMD)-slab
