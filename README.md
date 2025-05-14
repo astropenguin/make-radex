@@ -1,6 +1,7 @@
 # make-radex
 
 [![Release](https://img.shields.io/github/v/release/astropenguin/make-radex?display_name=tag&label=Release&color=cornflowerblue&style=flat-square)](https://github.com/astropenguin/make-radex/releases)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.15400237-cornflowerblue?style=flat-square)](https://doi.org/10.5281/zenodo.15400237)
 [![Tests](https://img.shields.io/github/actions/workflow/status/astropenguin/make-radex/tests.yml?label=Tests&style=flat-square)](https://github.com/astropenguin/make-radex/actions)
 
 RADEX build by GNU Make
