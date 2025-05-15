@@ -8,7 +8,7 @@ RADEX build by GNU Make
 
 ## Overview
 
-This project provides a GNU Makefile for [RADEX](https://sronpersonalpages.nl/~vdtak/radex/index.shtml) that builds RADEX (see also [astropenguin/homebrew-radex](https://github.com/astropenguin/homebrew-radex.git) for the Homebrew version).
+This project provides a GNU Makefile that builds [RADEX](https://sronpersonalpages.nl/~vdtak/radex/index.shtml) (see also [astropenguin/homebrew-radex](https://github.com/astropenguin/homebrew-radex.git) for the Homebrew version).
 Now you can build RADEX by the following commands:
 
 ```shell
