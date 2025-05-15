@@ -4,6 +4,9 @@
         "context": "..",
         "dockerfile": "Dockerfile"
     },
+    "runArgs": [
+        "--name=make-radex"
+    ],
     "customizations": {
         "vscode": {
             "extensions": [
